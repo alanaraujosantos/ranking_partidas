@@ -21,9 +21,4 @@ function calcularNivel(vitorias, derrotas) {
     return `O Herói tem de saldo de ${saldoVitorias} está no nível de ${nivel}`;
 }
 
-// Exemplo de uso:
-const vitorias = 75;
-const derrotas = 25;
-const resultado = calcularNivel(vitorias, derrotas);
-console.log(resultado);
 
